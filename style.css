@@ -1,0 +1,45 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading{
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  letter-spacing: 10px;
+}
+
+#update_emoji,#result_emotion_name{
+  margin-top: 50px;
+  margin-right: 300px;
+}
+#prediction1,#prediction2{
+  background-color: black;
+  font-size: 15px;
+  border-radius: 7px;
+  color: cyan;
+}
+
